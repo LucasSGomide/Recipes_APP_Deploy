@@ -1,0 +1,21 @@
+header {
+  align-items: center;
+  background-color: #40916C;
+  display: flex;
+  justify-content: space-around;
+}
+
+header h1 {
+  color: #232525;
+}
+
+header img {
+  color: #2D6A4F;
+}
+
+.header-btn {
+  padding: 10px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}

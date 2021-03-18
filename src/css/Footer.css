@@ -1,0 +1,16 @@
+footer {
+  background-color: #40916C;
+
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  right: 0;
+  width: 100%;
+}
+
+.footer-btn {
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+}
